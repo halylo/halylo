@@ -2,7 +2,7 @@
 <h3 align="center">💻 IT Student  | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_id?v=4" width="150" style="border-radius:50%" />
+  <img src="https://www.facebook.com/photo/?fbid=1826202124599851&set=a.109704479582966" width="150" style="border-radius:50%" />
 </p>
 
 ---
