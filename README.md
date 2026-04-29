@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ly</h1>
 <h3 align="center">💻 IT Student  | AI Explorer</h3>
 
-<p align="center">
-  <img src="https://www.facebook.com/photo/?fbid=1826202124599851&set=a.109704479582966" width="150" style="border-radius:50%" />
-</p>
 
 ---
 
@@ -32,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,docker,git,github,vscode" />
 </p>
 
 ---
@@ -53,14 +50,4 @@
 
 ---
 
-## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your_username&theme=tokyonight"/>
-</p>
-
----
-
-## ✨ Quote
-
-> “Code. Learn. Build. Repeat.” 🚀
