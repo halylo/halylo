@@ -1,7 +1,3 @@
-<h1 align="center">Hi</h1>
-
----
-
 ## 🌐 Connect with me
 
 <p>
@@ -39,15 +35,6 @@
 
 - 🔹 **QuanLyDeThi** – Hệ thống quản lý đề thi bằng Python  
 - 🔹 **TriTueNhanTao** – Bài tập & demo AI (Jupyter Notebook) 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halylo&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halylo&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
